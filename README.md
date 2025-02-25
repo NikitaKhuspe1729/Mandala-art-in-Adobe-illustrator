@@ -2,8 +2,8 @@
 Designed patterns for Mandala art in Adobe illustrator.
 # Mandala art 1
 ![mandala art black](https://github.com/user-attachments/assets/e2ac6eb0-70b0-484c-9c25-b6a2f4256f7f)
-
-
+# Mandala art 2
+![Mandala art 2](https://github.com/user-attachments/assets/bb36f43d-1042-41e7-af6f-90680fd0ab41)
 # Mandala art 3
 ![Mandala art 3](https://github.com/user-attachments/assets/5e684fae-450e-4ce2-9f9d-20b06e204845)
 # Mandala art 4
